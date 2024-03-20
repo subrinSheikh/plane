@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&family=Long+Cang&family=Overpass:ital,wght@0,100..900;1,100..900&family=Ruthie&family=Schoolbell&family=Zen+Loop:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Klee+One&family=Patrick+Hand+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Klee+One&family=Patrick+Hand+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Butterfly+Kids&family=Klee+One&family=Patrick+Hand+SC&display=swap");
+.section1 {
+  height: 100vh;
+  width: 100vw;
+  margin: auto;
+  border-radius: 10px;
+}
+#paris {
+  filter: grayscale(100%);
+  filter: sepia(50%);
+  filter: opacity(20%);
+  border-radius: 10px;
+  position: relative;
+}
+.navbar {
+  top: -1%;
+  height: 8vh;
+  position: absolute;
+  width: 100vw;
+  border-radius: 10px;
+  background-color: #f7f2ef;
+  /* border: 2px solid black; */
+}
+.nav {
+  position: absolute;
+  padding: 10px;
+  top: 5%;
+  margin-left: 200px;
+  font-size: 2rem;
+  font-family: "Patrick Hand SC", cursive;
+
+  /* font-family: "Ruthie", cursive; */
+  font-weight: 400;
+  font-style: normal;
+}
+.space {
+  font-family: "Patrick Hand SC", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.4rem;
+}
+.home {
+  margin-left: 500px;
+  margin-right: 200px;
+  position: absolute;
+  padding: 10px;
+  top: 25%;
+}
+.contact {
+  margin-left: 700px;
+  margin-right: 200px;
+  position: absolute;
+  padding: 10px;
+  top: 25%;
+}
+.space:hover {
+  color: gray;
+}
+.icons {
+  margin-left: 900px;
+  top: 50%;
+  position: absolute;
+  font-size: 1.4rem;
+  color: gray;
+  padding-right: 70px;
+}
+.fa-brands {
+  padding-right: 70px;
+}
+.fa-brands:hover {
+  transform: translatey(-5px);
+  cursor: pointer;
+}
+#stylish {
+  font-family: "Grandstander", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+}
+#styling {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+.fa-regular {
+  font-size: 2.5rem;
+  margin-left: -30px;
+  color: red;
+  margin-right: 30px;
+}
+.fa-location-dot {
+  font-size: 2.5rem;
+  /* margin-left: 40px; */
+  color: red;
+  position: absolute;
+  left: 1230%;
+  top: -1%;
+}
+.write {
+  position: absolute;
+  margin-left: -50px;
+  top: 70%;
+  font-family: "Butterfly Kids", cursive;
+
+  font-size: 1.4rem;
+}
+.write1 {
+  position: absolute;
+  left: 200%;
+  top: 2%;
+}
+.write2 {
+  position: absolute;
+  margin-left: 150px;
+  top: 70%;
+  font-family: "Butterfly Kids", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.4rem;
+}
+.wri {
+  position: absolute;
+  left: 1200%;
+  top: 70%;
+  font-family: "Butterfly Kids", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.4rem;
+}
+.fa-map:hover {
+  transform: translatey(-5px);
+  cursor: pointer;
+}
+.fa-location-dot:hover {
+  transform: translatey(-5px);
+  cursor: pointer;
+}
+.carousel-item img {
+  padding-left: 20px;
+}
+#carouselExample {
+  position: absolute;
+
+  top: 40%;
+}
+.carousel-item img:hover {
+  opacity: 0.5;
+}
+.section {
+  position: relative;
+}
+.india,
+.london,
+.dubai {
+  position: absolute;
+  font-size: 4rem;
+  font-family: "Beau Rivage", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.india {
+  top: 40%;
+  left: 20%;
+}
+.london {
+  top: 80%;
+  left: 50%;
+}
+.dubai {
+  top: 10%;
+  left: 70%;
+}
+.fa-map-pin {
+  font-size: 3rem;
+  color: red;
+  
+}

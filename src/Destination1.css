@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Butterfly+Kids&family=Klee+One&family=Patrick+Hand+SC&family=Sacramento&display=swap");
+
+#india img {
+  position: absolute;
+  top: 40%;
+  margin: auto 15vw;
+  border-radius: 10px;
+}
+.about {
+  position: absolute;
+  top: 90%;
+  text-align: justify;
+  height: 400px;
+  width: 1000px;
+  margin: auto 15vw;
+}
+#space {
+  font-size: 5rem;
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: hotpink;
+}
+#paris {
+  filter: grayscale(100%);
+  filter: sepia(50%);
+  filter: opacity(20%);
+  border-radius: 10px;
+  position: relative;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: gray;
+}
+

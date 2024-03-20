@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Butterfly+Kids&family=Klee+One&family=Patrick+Hand+SC&family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Butterfly+Kids&family=Klee+One&family=Patrick+Hand+SC&family=Sacramento&display=swap");
+.one {
+  background-color: #fdf2f1;
+  height: 35vh;
+  width: 100vw;
+  /* border: 2px solid black; */
+  border-radius: 10px;
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-family: "Sacramento", cursive;
+  font-size: 1.6rem;
+}
+#follow {
+  margin-left: 600px;
+  margin-top: -200px;
+  font-size: 1.5rem;
+}
+.inquiry {
+  margin-left: 1000px;
+  margin-top: -200px;
+}
+input {
+  padding: 10px 20px;
+  text-align: center;
+  border: 1px solid rgb(163, 118, 118);
+  background-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-family: "Patrick Hand SC", cursive !important;
+}
+#four img {
+  mix-blend-mode: multiply;
+}
+#where {
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.side {
+  margin-left: 80px;
+  margin-top: -20px;
+}
+#three {
+  text-align: center;
+  border: 1px solid rgb(163, 118, 118);
+  background-color: transparent;
+  border-radius: 10px;
+  margin-left: 10px;
+  font-family: "Patrick Hand SC", cursive !important;
+}
