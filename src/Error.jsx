@@ -1,6 +1,8 @@
 import React from "react";
 import "./Error.css";
 import { Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+
 const Error = () => {
   return (
     <>
@@ -16,7 +18,7 @@ const Error = () => {
         </span>
         <br />
         <span>
-          <button className="apple"style={{ color: "white" }}>
+          <button className="apple" style={{ color: "white" }}>
             <Link to="/">BACK TO HOME</Link>
           </button>
         </span>
